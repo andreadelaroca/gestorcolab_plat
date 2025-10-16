@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\gestorcolab_plat\\Gestor_Tareas\\Gestor_Tareas.csproj": {}
+    "C:\\Users\\USER\\Desktop\\gestorcolab_plat\\listar_tareas\\listar_tareas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\gestorcolab_plat\\Gestor_Tareas\\Gestor_Tareas.csproj": {
+    "C:\\Users\\USER\\Desktop\\gestorcolab_plat\\listar_tareas\\listar_tareas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\gestorcolab_plat\\Gestor_Tareas\\Gestor_Tareas.csproj",
-        "projectName": "Gestor_Tareas",
-        "projectPath": "C:\\Users\\USER\\Desktop\\gestorcolab_plat\\Gestor_Tareas\\Gestor_Tareas.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\gestorcolab_plat\\listar_tareas\\listar_tareas.csproj",
+        "projectName": "listar_tareas",
+        "projectPath": "C:\\Users\\USER\\Desktop\\gestorcolab_plat\\listar_tareas\\listar_tareas.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\gestorcolab_plat\\Gestor_Tareas\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\gestorcolab_plat\\listar_tareas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
