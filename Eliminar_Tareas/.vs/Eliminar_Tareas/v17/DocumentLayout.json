@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Naza\\Desktop\\Plataformas\\gestorcolab_plat\\Eliminar_Tareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{972DA8CF-60F3-4DC1-842E-4BB58DF70FB4}|Eliminar_Tareas\\Eliminar_Tareas.csproj|c:\\users\\naza\\desktop\\plataformas\\gestorcolab_plat\\eliminar_tareas\\eliminar_tareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{972DA8CF-60F3-4DC1-842E-4BB58DF70FB4}|Eliminar_Tareas\\Eliminar_Tareas.csproj|solutionrelative:eliminar_tareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naza\\Desktop\\Plataformas\\gestorcolab_plat\\Eliminar_Tareas\\Eliminar_Tareas\\Program.cs",
+              "RelativeDocumentMoniker": "Eliminar_Tareas\\Program.cs",
+              "ToolTip": "C:\\Users\\Naza\\Desktop\\Plataformas\\gestorcolab_plat\\Eliminar_Tareas\\Eliminar_Tareas\\Program.cs",
+              "RelativeToolTip": "Eliminar_Tareas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T04:46:59.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
