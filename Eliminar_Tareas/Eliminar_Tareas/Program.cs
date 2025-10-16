@@ -16,7 +16,16 @@ namespace Eliminar_Tareas
             Console.Write("\nIngrese el número de la tarea: ");
             int num = int.Parse(Console.ReadLine());
 
+            if (num < 1 || num > tareas.Count)
+            {
+                Console.WriteLine("Número inválido.");
+                return;
             }
+
+            Console.Write("¿Desea (1) completar o (2) eliminar la tarea?: ");
+            int opcion = int.Parse(Console.ReadLine());
+
+        }
         }
     }
 }
