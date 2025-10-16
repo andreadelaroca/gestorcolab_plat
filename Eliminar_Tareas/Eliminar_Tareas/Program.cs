@@ -25,7 +25,18 @@ namespace Eliminar_Tareas
             Console.Write("¿Desea (1) completar o (2) eliminar la tarea?: ");
             int opcion = int.Parse(Console.ReadLine());
 
+            if (opcion == 1)
+            {
+                tareas[num - 1].Completada = true;
+                Console.WriteLine("Tarea marcada como completada.");
+            }
+            else if (opcion == 2)
+            {
+                tareas.RemoveAt(num - 1);
+                Console.WriteLine("Tarea eliminada.");
+            }
+
         }
-        }
+        
     }
 }
